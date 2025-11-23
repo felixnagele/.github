@@ -16,9 +16,6 @@
       "type": "non_fast_forward"
     },
     {
-      "type": "update"
-    },
-    {
       "type": "creation"
     },
     {
@@ -35,13 +32,6 @@
         "required_review_thread_resolution": true,
         "automatic_copilot_code_review_enabled": true,
         "allowed_merge_methods": ["squash", "rebase"]
-      }
-    },
-    {
-      "type": "copilot_code_review",
-      "parameters": {
-        "review_on_push": true,
-        "review_draft_pull_requests": true
       }
     }
   ],
