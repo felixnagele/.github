@@ -1,7 +1,7 @@
 ---
 name: Security
 about: Report a security concern
-title: "[SECURITY] "
+title: ""
 labels: security
 assignees: ""
 ---
