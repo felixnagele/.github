@@ -1,6 +1,6 @@
 ## Description
 
-Summary of what this PR does and why.  
+Summary of what this PR does and why.
 Optional: screenshots and any extra context.
 
 ## Issues
