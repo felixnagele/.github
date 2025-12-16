@@ -47,7 +47,9 @@ Editor (VS Code) recommended settings:
     "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnSave": true,
     "editor.formatOnPaste": false
-  }
+  },
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true
 }
 ```
 
