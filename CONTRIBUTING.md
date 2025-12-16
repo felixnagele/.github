@@ -25,33 +25,24 @@ Use one of these prefixes to indicate the type of change:
 
 If your change doesn’t fit these categories, use a new prefix only when it makes clear sense.
 
+## Development Environment: Visual Studio Code
+
+It is recommended to use **Visual Studio Code (VS Code)** as the default IDE for all contributions. This ensures a consistent development experience and makes it easier to follow formatting and workflow guidelines. Each repository should include a `.vscode` folder with recommended settings and extensions to help contributors get started quickly and maintain consistency.
+
+**Recommended setup:**
+
+- Use VS Code for all code contributions by default.
+- Ensure the `.vscode` folder exists in the repo with workspace settings and extension recommendations.
+- Install the recommended extensions when prompted by VS Code.
+- Use the provided workspace settings for formatting, linting, and other editor behaviors.
+
+If you use a different editor, please make sure your changes are fully compatible with the VS Code setup and formatting rules described below.
+
 ## Formatting
 
-To keep the codebase consistent we use **Prettier** by default and **Black** for Python.
+It is required to use **Prettier** as the default formatter for all supported file types, including Markdown. Language-specific formatters and their settings are specified in the `.vscode` folder of each repository.
 
-- Please format code before opening a PR. Editors can do this automatically (recommended).
-- PRs that fail formatting checks will be requested for fixes.
-
-Editor (VS Code) recommended settings:
-
-- Install extensions: **Prettier - Code formatter** and **Black Formatter**.
-- Don't override Prettier and Black defaults!
-- Recommended workspace settings (add to your global vscode settings or `.vscode/settings.json`):
-
-```json
-{
-  "editor.formatOnSave": true,
-  "editor.formatOnPaste": false,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[python]": {
-    "editor.defaultFormatter": "ms-python.black-formatter",
-    "editor.formatOnSave": true,
-    "editor.formatOnPaste": false
-  },
-  "files.trimTrailingWhitespace": true,
-  "files.insertFinalNewline": true
-}
-```
+Code must be formatted before opening a pull request. With the recommended VS Code settings and extensions, this is handled automatically. Pull requests that do not meet formatting requirements will be requested for fixes. Default formatter settings should not be overridden unless necessary for compatibility.
 
 ## Pull requests
 
