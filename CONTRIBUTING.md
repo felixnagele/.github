@@ -29,7 +29,7 @@ If your change doesn’t fit these categories, use a new prefix only when it mak
 
 It is recommended to use **Visual Studio Code (VS Code)** as the default IDE for all contributions. This ensures a consistent development experience and makes it easier to follow formatting and workflow guidelines. Each repository should include a `.vscode` folder with recommended settings and extensions to help contributors get started quickly and maintain consistency.
 
-The repository also includes editor-agnostic configuration files (e.g., `.editorconfig and formatter config files) to ensure consistent behavior across different editors.
+The repository also includes editor-agnostic configuration files (e.g., `.editorconfig` and formatter config files) to ensure consistent behavior across different editors.
 
 **Recommended setup:**
 
