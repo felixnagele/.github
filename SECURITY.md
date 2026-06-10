@@ -16,6 +16,5 @@ Logs or a minimal proof of concept are helpful but optional.
 ## Acknowledgement and disclosure
 
 I may acknowledge reports when I can.
-Do not rely on a response.
 I prefer coordinated disclosure.
 If you plan to publish details please give reasonable time to address the issue.
