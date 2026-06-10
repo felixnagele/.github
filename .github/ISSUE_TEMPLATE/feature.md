@@ -12,4 +12,4 @@ assignees: ""
 
 ## How to test / Validate
 
-<!-- Optional: acceptance criteria or a brief note on how to validate the feature. -->
+<!-- Acceptance criteria or a brief note on how to validate the feature. -->

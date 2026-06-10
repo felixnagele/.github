@@ -1,18 +1,13 @@
 ## Description
 
-<!-- Summary of what this PR does and why.
-Optional: screenshots and any extra context. -->
+<!-- Summary of what this PR does and why. -->
 
-## Issues
+## Related issues
 
-<!-- use if this PR fully resolves the issue -->
+Closes #<!-- issue number -->
 
-Closes #<issue-number>
+Related: #<!-- issue number -->
 
-<!-- use if this PR is linked but should not close the issue -->
+## How to verify
 
-Related: #<issue-number>
-
-## Testing
-
-<!-- Steps or notes on how reviewers can verify. -->
+<!-- How to verify this change. -->

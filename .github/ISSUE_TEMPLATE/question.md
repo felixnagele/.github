@@ -12,4 +12,4 @@ assignees: ""
 
 ## Examples / Steps to illustrate
 
-<!-- Optional: a short example, minimal steps, or sample input that helps explain your question. -->
+<!-- A short example, minimal steps, or sample input that helps explain your question. -->

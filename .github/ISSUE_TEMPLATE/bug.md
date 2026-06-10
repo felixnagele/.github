@@ -8,8 +8,8 @@ assignees: ""
 
 ## Description
 
-<!-- Describe the bug and any relevant context, logs, or screenshots. -->
+<!-- What happened, what did you expect, and any relevant context (logs, screenshots). -->
 
-## How to reproduce / Test
+## How to reproduce
 
-<!-- Optional: steps to reproduce or a brief note on how to verify the issue. -->
+<!-- Steps, environment (OS, version), and what you expected vs what happened. -->
