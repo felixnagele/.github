@@ -2,15 +2,13 @@
 
 ## Reporting a Vulnerability
 
-Preferred: open a private GitHub Security Advisory if available, or create an issue using the security template or label.
-If you need a private reply, open a private GitHub Security Advisory when possible.
-Otherwise include your GitHub handle in the report and I will reply on GitHub.
+Report security vulnerabilities privately via GitHub's **private vulnerability reporting**
+(the "Report a vulnerability" button / a Security Advisory). Do not open a public issue for security concerns.
 Note that this is a personal account and I may not be able to review every report.
 
 ## What to include
 
-If you use the security issue template it will collect the key details.
-Otherwise please include the affected commit or version, clear reproduction steps, and a short impact summary.
+Please include the affected commit or version, clear reproduction steps, and a short impact summary.
 Logs or a minimal proof of concept are helpful but optional.
 
 ## Acknowledgement and disclosure
